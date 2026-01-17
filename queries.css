@@ -1,0 +1,19 @@
+@media (max-width: 30rem) {
+    html {
+        font-size: 37.5%;
+        /* 6px / 16px = 37.5% */
+    }
+
+    .container {
+        max-width: 200px;
+        padding: 1.5rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .person-image {
+        max-width: 20px;
+    }
+}    
